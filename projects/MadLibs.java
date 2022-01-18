@@ -1,4 +1,3 @@
-package mad_libs;
 public class MadLibs {
     /* Program description:
     This program generates a mad libbed story. 

@@ -1,4 +1,3 @@
-package tree;
 public class Tree {
     public static void main(String[] args) {
       // We're going to introduce ourselves, and print a tree for the user.
