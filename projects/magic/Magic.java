@@ -1,3 +1,4 @@
+package magic;
 public class Magic {
     public static void main(String[] args) {
         // myNumber is the original number.
