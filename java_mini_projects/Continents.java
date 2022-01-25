@@ -1,3 +1,5 @@
+package java_mini_projects;
+
 public class Continents {
 	public static void main(String[] args) {
     int continent = 4;

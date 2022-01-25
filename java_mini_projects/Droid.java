@@ -1,3 +1,5 @@
+package java_mini_projects;
+
 public class Droid {
     int batteryLevel;
     String name;

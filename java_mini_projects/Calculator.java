@@ -1,3 +1,4 @@
+package java_mini_projects;
 // Albeit, this calculator is no where near as good as "The Simple Calculator" - now available for iOS, and MacOS (only Macs with an M1 chip). 
 // Link: https://apps.apple.com/au/app/id1525169566?l=en
 

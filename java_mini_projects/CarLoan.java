@@ -1,3 +1,5 @@
+package java_mini_projects;
+
 public class CarLoan {
     public static void main(String[] args) {
         int carLoan = 10000;

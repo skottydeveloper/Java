@@ -1,3 +1,5 @@
+package java_mini_projects;
+
 public class MadLibs {
     /* Program description:
     This program generates a mad libbed story. 
