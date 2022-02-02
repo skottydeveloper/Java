@@ -5,6 +5,6 @@ This repository is a portfolio of code for the Java programming language. It con
 ## Mini Projects
 Consists of basic, miniature projects that demonstrate my knowledge in each feature of the Java programming language. For example, one project will demonstrate the application of knowledge in arrays and arraylists, while another will demonstrate the application of knowledge in switch statements. 
 
-## Larger Projects
+## Notable Projects
 ### SFX Application
 Developed in JavaFX, along with a bit of CSS - the program's purpose is to allow an employer to login and manage a list of their employees. The list of employees can be modified, by the addition and removal of employees. The employer can also view his employees' details, such as their pay rate, superannuation, etc. 
