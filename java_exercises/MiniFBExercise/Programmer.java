@@ -1,4 +1,4 @@
-package MiniFBProject;
+package MiniFBExercise;
 
 public class Programmer extends Person {
 	private String language;

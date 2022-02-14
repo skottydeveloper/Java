@@ -1,4 +1,4 @@
-package MiniFBProject;
+package MiniFBExercise;
 
 public class Academic extends Person {
 	private String subject;

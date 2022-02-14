@@ -1,4 +1,4 @@
-package MiniFBProject;
+package MiniFBExercise;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package MiniFBProject;
+package MiniFBExercise;
 
 public class Student extends Person {
 	private String degree;

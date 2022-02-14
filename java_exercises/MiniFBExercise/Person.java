@@ -1,4 +1,4 @@
-package MiniFBProject;
+package MiniFBExercise;
 
 public abstract class Person {
     private String name;
