@@ -18,6 +18,8 @@ public class CarLoan {
           int interest = (monthlyBalance * interestRate) / 100;
           int monthlyPayment = monthlyBalance + interest;
           System.out.println(monthlyPayment);
+
+          System.out.println("Test");
         }
     }
 }
