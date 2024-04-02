@@ -24,4 +24,4 @@ A basic phonebook application that can do the following:
 -  Find a specified contact from the list.  
 
 ### SFX Application
-Developed in JavaFX, along with a bit of CSS - the program's purpose is to allow an employer to login and manage a list of their employees. The list of employees can be modified, by the addition and removal of employees. The employer can also view his employees' details, such as their pay rate, superannuation, etc. 
+Developed using JavaFX, along with a bit of CSS - the program's purpose is to allow an employer to login and manage a list of their employees. The list of employees can be modified, by the addition and removal of employees. The employer can also view his employees' details, such as their pay rate, superannuation, etc. 
